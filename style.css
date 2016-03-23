@@ -1,0 +1,16 @@
+/* estilos */
+
+@import url('css/reset.css');
+@import url('css/reticula.css');
+@import url('css/sections.css');
+@import url('css/editorials.css');
+@import url('css/forms.css');
+@import url('css/layout.css');
+
+
+html, body {
+	color: #282828;
+	height: 100%;
+	font-family: 'Montserrat',sans-serif;	
+}
+
